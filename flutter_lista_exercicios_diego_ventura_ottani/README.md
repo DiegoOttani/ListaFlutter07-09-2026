@@ -25,6 +25,6 @@ respectiva pasta.
 10 - Controle de estoque
 
 ## Como rodar
-Entrar na pasta do exercício desejado esse comando:
+Entrar na pasta do exercício e digitar esse comando:
 
 Utlizei Flutter run -d chrome para build do 
